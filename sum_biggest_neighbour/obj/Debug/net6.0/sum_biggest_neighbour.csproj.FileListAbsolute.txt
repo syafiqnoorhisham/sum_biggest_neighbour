@@ -1,0 +1,15 @@
+/Users/macbookpromid2012/Projects/sum_biggest_neighbour/sum_biggest_neighbour/bin/Debug/net6.0/sum_biggest_neighbour
+/Users/macbookpromid2012/Projects/sum_biggest_neighbour/sum_biggest_neighbour/bin/Debug/net6.0/sum_biggest_neighbour.deps.json
+/Users/macbookpromid2012/Projects/sum_biggest_neighbour/sum_biggest_neighbour/bin/Debug/net6.0/sum_biggest_neighbour.runtimeconfig.json
+/Users/macbookpromid2012/Projects/sum_biggest_neighbour/sum_biggest_neighbour/bin/Debug/net6.0/sum_biggest_neighbour.dll
+/Users/macbookpromid2012/Projects/sum_biggest_neighbour/sum_biggest_neighbour/bin/Debug/net6.0/sum_biggest_neighbour.pdb
+/Users/macbookpromid2012/Projects/sum_biggest_neighbour/sum_biggest_neighbour/obj/Debug/net6.0/sum_biggest_neighbour.csproj.AssemblyReference.cache
+/Users/macbookpromid2012/Projects/sum_biggest_neighbour/sum_biggest_neighbour/obj/Debug/net6.0/sum_biggest_neighbour.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpromid2012/Projects/sum_biggest_neighbour/sum_biggest_neighbour/obj/Debug/net6.0/sum_biggest_neighbour.AssemblyInfoInputs.cache
+/Users/macbookpromid2012/Projects/sum_biggest_neighbour/sum_biggest_neighbour/obj/Debug/net6.0/sum_biggest_neighbour.AssemblyInfo.cs
+/Users/macbookpromid2012/Projects/sum_biggest_neighbour/sum_biggest_neighbour/obj/Debug/net6.0/sum_biggest_neighbour.csproj.CoreCompileInputs.cache
+/Users/macbookpromid2012/Projects/sum_biggest_neighbour/sum_biggest_neighbour/obj/Debug/net6.0/sum_biggest_neighbour.dll
+/Users/macbookpromid2012/Projects/sum_biggest_neighbour/sum_biggest_neighbour/obj/Debug/net6.0/refint/sum_biggest_neighbour.dll
+/Users/macbookpromid2012/Projects/sum_biggest_neighbour/sum_biggest_neighbour/obj/Debug/net6.0/sum_biggest_neighbour.pdb
+/Users/macbookpromid2012/Projects/sum_biggest_neighbour/sum_biggest_neighbour/obj/Debug/net6.0/sum_biggest_neighbour.genruntimeconfig.cache
+/Users/macbookpromid2012/Projects/sum_biggest_neighbour/sum_biggest_neighbour/obj/Debug/net6.0/ref/sum_biggest_neighbour.dll
